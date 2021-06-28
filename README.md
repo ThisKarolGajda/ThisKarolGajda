@@ -8,4 +8,4 @@
 [![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 # Pin
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThisKarolGajda&repo=github-Heroes-Wars)](https://github.com/ThisKarolGajda/Heroes-Wars)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThisKarolGajda&repo=Heroes-Wars)](https://github.com/ThisKarolGajda/Heroes-Wars)
