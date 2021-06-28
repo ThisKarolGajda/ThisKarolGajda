@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on my brain
 - 📫 How to reach me no
+- 
+{{ ACCOUNT_AGE }}
 
 <!---
 ThisKarolGajda/ThisKarolGajda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
