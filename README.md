@@ -5,7 +5,7 @@
 - 📫 How to reach me, Discord: OpKarol#0001
 
 # Stats
-[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda)](https://github.com/ThisKarolGajda/Heroes-Wars&theme=radical)
 
 # Current Repository
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThisKarolGajda&repo=Heroes-Wars)](https://github.com/ThisKarolGajda/Heroes-Wars)
