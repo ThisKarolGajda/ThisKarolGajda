@@ -8,4 +8,4 @@
 [![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda&theme=radical)](https://github.com/ThisKarolGajda/Heroes-Wars)
 
 # Current Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThisKarolGajda&repo=Heroes-Wars)](https://github.com/ThisKarolGajda/Heroes-Wars)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ThisKarolGajda&repo=OpEconomy)](https://github.com/ThisKarolGajda/OpEconomy)
