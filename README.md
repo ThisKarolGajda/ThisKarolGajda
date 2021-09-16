@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @ThisKarolGajda
-- 👀 I’m interested in Java
-- 🌱 I’m currently creating H&W (https://www.spigotmc.org/resources/93714/)
-- 💞️ I’m not looking to collaborate with someone
-- 📫 How to reach me, Discord: OpKarol#0001
+- 👀 I’m interested in programming in Java with Bukkit API
+- 🌱 I’m currently doing school work and also creating OpEconomy (https://www.spigotmc.org/resources/95674/)
+- 💞️ If you wanna collaborate with me, reach me on discord
+- 📫 How to reach me, Discord: OpKarol#5694
 
 # Stats
 [![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda&show_icons=true&theme=radical)](https://github.com/ThisKarolGajda/OpEconomy)
