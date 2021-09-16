@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @ThisKarolGajda
 - 👀 I’m interested in programming in Java with Bukkit API
-- 🌱 I’m currently doing school work and also creating OpEconomy (https://www.spigotmc.org/resources/95674/)
+- 🌱 I’m currently doing school work and also creating [**OpEconomy**](https://www.spigotmc.org/resources/95674/)
 - 💞️ If you wanna collaborate with me, reach me on discord
 - 📫 How to reach me, Discord: OpKarol#5694
 
