@@ -5,7 +5,7 @@
 - 📫 How to reach me, Discord: OpKarol#5694
 
 # Stats
-[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda&show_icons=true&theme=radical)](https://github.com/ThisKarolGajda/OpPe)
+[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThisKarolGajda&show_icons=true&theme=radical)](https://github.com/ThisKarolGajda/OpPets)
 
 # Languages
 [![Cool languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThisKarolGajda&exclude_repo=github-readme-stats,thiskarolgajda.github.io&theme=radical)](https://github.com/ThisKarolGajda/OpPets)
