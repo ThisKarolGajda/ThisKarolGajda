@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="KarolGajda#5694">
+  <a href="https://github.com/ThisKarolGajda/ThisKarolGajda/blob/main/discord.md">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.youtube.com/channel/UCp21VGJwuvn7Syav5-Gr9kw">
