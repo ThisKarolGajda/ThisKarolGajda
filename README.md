@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  <div id="badges">
+  <br>
   <a href="https://github.com/ThisKarolGajda/ThisKarolGajda/blob/main/discord.md">
     <img src="https://img.shields.io/badge/Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -12,14 +12,12 @@
   </a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=thiskarolgajda" alt=""/>
-  </div>
   <br>
   <h1> 
-    Hi, I'm Karol
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hi, I'm Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br>
     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600" height="300"/>
-  <h1/>
+  </h1>
 </div>
 
 ### :man_technologist: About Me ➤ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
