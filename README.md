@@ -14,16 +14,16 @@
   <img src="https://komarev.com/ghpvc/?username=thiskarolgajda" alt=""/>
   </div>
   <br>
-   <h1> 
-     Hi, I'm Karol
-     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-     <br>
-     <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600" height="300"/>
-   <h1/>
+  <h1> 
+    Hi, I'm Karol
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <br>
+    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600" height="300"/>
+  <h1/>
 </div>
 
 ### :man_technologist: About Me ➤ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-I am a Student Developer from Poland.
+__I am a Student Developer from Poland.__
 - :telescope: I'm actively learning new technologies and new languages!
 
 - :zap: In my free time, I pet my dog Łatek and read tech articles.
