@@ -1,2 +1,1 @@
-### Discord ➤
-KarolGajda#5694
+### Discord ➤ opkarol
