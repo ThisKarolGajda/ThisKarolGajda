@@ -16,7 +16,6 @@
   <h1> 
     Hi, I'm Karol <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <br>
-    <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="600" height="300"/>
   </h1>
 </div>
 
