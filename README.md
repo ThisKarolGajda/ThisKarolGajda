@@ -54,5 +54,5 @@ __I am a Student Developer from Poland.__
 
 ### :fire: My Stats ➤
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=ThisKarolGajda&theme=dark)](https://git.io/streak-stats)  
-![WakaTime Share](https://wakatime.com/share/@7c8d0ce9-99fd-4c10-8db9-abb4f892feec/f213247a-ecab-4bde-a59a-9f518bef1754.svg)
-![WakaTime Share](https://wakatime.com/share/@7c8d0ce9-99fd-4c10-8db9-abb4f892feec/36d1c805-3de3-4c30-9ca6-294d50326dc7.svg)
+![Wakatime](https://wakatime.com/share/@7c8d0ce9-99fd-4c10-8db9-abb4f892feec/a7de8235-d436-44e7-821f-8d9b429b6923.svg)
+![Wakatime](https://wakatime.com/share/@7c8d0ce9-99fd-4c10-8db9-abb4f892feec/fe66af27-a05c-49d4-bb08-4e4ca5575534.svg)
