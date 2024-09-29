@@ -25,8 +25,6 @@ __I am a Student Developer from Poland.__
 
 - :zap: In my free time, I pet my dog Łatek and read tech articles.
 
-- :seedling: I often touch grass.
-
 - :mailbox: Reach me at jestemdobrywniczym@gmail.com
 
 ---
