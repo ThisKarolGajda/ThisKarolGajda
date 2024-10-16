@@ -52,6 +52,8 @@ __I am a Student Developer from Poland.__
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" **alt="NextJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" **alt="YAML" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" **alt="XML" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  
 </div>
   
 ---
